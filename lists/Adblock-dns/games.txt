@@ -6014,7 +6014,7 @@
 ||pokertexasomaha.com^
 ||pokertodo.com^
 ||pokeyplay.com^
-!||poki.com^
+||poki.com^
 ||poki.com.br^
 ||poki.de^
 ||poki.it^
